@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cricket-book/static/css/main.d308992f.css",
+    "main.js": "/cricket-book/static/js/main.b527ee4b.js",
+    "index.html": "/cricket-book/index.html",
+    "main.d308992f.css.map": "/cricket-book/static/css/main.d308992f.css.map",
+    "main.b527ee4b.js.map": "/cricket-book/static/js/main.b527ee4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d308992f.css",
+    "static/js/main.b527ee4b.js"
+  ]
+}
